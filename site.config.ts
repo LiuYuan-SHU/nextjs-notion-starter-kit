@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Liu Yuan\'s Tech Trash',
-  domain: 'https://icy-roadway-527.notion.site/d2ef3e6adee1463788c0fc4f55a9bfa2',
+  domain: 'https://www.mikcerasus.com',
   author: 'Liu Yuan',
 
   // open graph metadata (optional)
